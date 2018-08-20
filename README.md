@@ -5,18 +5,18 @@ https://www.kaggle.com/c/titanic
 Overview
 
 
-# PassengerId.  Unique identification of the passenger. NO USEFULL
-# Survived.     *****Survival (0 = No, 1 = Yes). Binary variable that will be our target variable.*****
-# Pclass.       Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd). Ready to go.
-# Name.         Name of the passenger.    We need to parse before using it.
-# Sex.          Sex. Categorical variable that should be encoded.
-# Age.          Age in years. Ready to go.
-# SibSp.        # of siblings / spouses aboard the Titanic. Ready to go.
-# Parch.        # of parents / children aboard the Titanic. Ready to go.
-# Ticket.       Ticket number. Big mess. We need to understand its structure first.
-# Fare.         Passenger fare. Ready to go.
-# Cabin.        Cabin number. It needs to be parsed.
-# Embarked.     Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton). Categorical feature that should be encoded.
+ PassengerId.  Unique identification of the passenger. NO USEFULL
+ Survived.     *****Survival (0 = No, 1 = Yes). Binary variable that will be our target variable.*****
+ Pclass.       Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd). Ready to go.
+ Name.         Name of the passenger.    We need to parse before using it.
+ Sex.          Sex. Categorical variable that should be encoded.
+ Age.          Age in years. Ready to go.
+ SibSp.        # of siblings / spouses aboard the Titanic. Ready to go.
+ Parch.        # of parents / children aboard the Titanic. Ready to go.
+ Ticket.       Ticket number. Big mess. We need to understand its structure first.
+ Fare.         Passenger fare. Ready to go.
+ Cabin.        Cabin number. It needs to be parsed.
+ Embarked.     Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton). Categorical feature that should be encoded.
 
 
 
